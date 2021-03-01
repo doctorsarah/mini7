@@ -1,6 +1,6 @@
 # program-chap07
 
-Create a Java program **ImageCreator.java** that writes **400 × 300** P6 PPM image file named **image.ppm**. Print ```An image was written to output.ppm.``` Your image can be a solid color or something more interesting.
+Create a Java program **ImageCreator.java** that writes **400 × 300** P6 PPM image file named **image.ppm**. Print ```An image was written to image.ppm.``` Your image can be a solid color or something more interesting.
 
 ## P6 PPM Format
 * Magic number ("P6")
